@@ -1,7 +1,7 @@
 ![banner image goes here](Link to Banner Image)
 
 
-# Tamyra Michols 
+# Tamyra Nichols 
 Contact Info: TamyraM2005@icloud.com
 
 ### About Me 

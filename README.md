@@ -1,10 +1,16 @@
+![banner image goes here](Link to Banner Image)
+
+
 # Tamyra Michols 
-Contact Info: [fill in]
+Contact Info: TamyraM2005@icloud.com
+
 ### About Me 
-[Fill in Madlibs here]
+Hello! I am an experienced Psychologist and Counselor Professional with over 2 years of proven expertise in Cognitive Psychology and Neuropsychology. 
+With skills in problem solving, Mentoring, Written communication, and Brainstorimng, I am able to listen to the clients thoughts and acheive the results of getting them through tough situations. I am adept at using Excel, JDoodle, and Access. 
+My helpful skill set, committment to honesty and passion for knowledge makes me a valuable assest. In my spare time, I like to sing and watch Netflix. 
 
 ### Education 
-[Fill in Education here]
+Loyola Univeristy Maryland
 ***
 ### Projects
 

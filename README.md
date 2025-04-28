@@ -17,7 +17,7 @@ Loyola Univeristy Maryland
 #### Project 1 Reflection of 4 Modules 
  -  This project was a reflection of the topics that I have learned throughout the weeks, and I had to record myself doing the presentation. In the presentation, I described and provided examples of certain things for each topic.
 
- - [Link🔗"C:\Users\Tamyra\OneDrive - Loyola University Maryland\Pictures\Screenshots\Screenshot 2025-04-27 222613.png")]
+ - (Link🔗"C:\Users\Tamyra\OneDrive - Loyola University Maryland\Pictures\Screenshots\Screenshot 2025-04-27 222613.png")
  -  The challenging part was getting the recording to capture me speaking and my video because it wasn’t working no matter how hard I tried to get it to. My solution to this problem was to record on my phone and still screen record my laptop screen, which had my presentation that I could still meet all the requirements of the assignment and turn it in. 
 
 ***

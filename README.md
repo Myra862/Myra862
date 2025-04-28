@@ -1,4 +1,4 @@
-[banner goes here](Link🔗"C:\Users\Tamyra\Downloads\steve-gribble-tuRraTuflBA-unsplash.jpg")
+[banner goes here](Link🔗"C:\Users\Tamyra\Downloads\steve-gribble-tuRraTuflBA-unsplash.jpg") 
 
 
 # Tamyra Nichols 
@@ -17,7 +17,7 @@ Loyola Univeristy Maryland
 #### Project 1 Reflection of 4 Modules 
  -  This project was a reflection of the topics that I have learned throughout the weeks, and I had to record myself doing the presentation. In the presentation, I described and provided examples of certain things for each topic.
 
- - (Link🔗"C:\Users\Tamyra\OneDrive - Loyola University Maryland\Pictures\Screenshots\Screenshot 2025-04-27 222613.png")
+ (Link🔗"C:\Users\Tamyra\OneDrive - Loyola University Maryland\Pictures\Screenshots\Screenshot 2025-04-27 222613.png")
  -  The challenging part was getting the recording to capture me speaking and my video because it wasn’t working no matter how hard I tried to get it to. My solution to this problem was to record on my phone and still screen record my laptop screen, which had my presentation that I could still meet all the requirements of the assignment and turn it in. 
 
 ***
@@ -27,7 +27,7 @@ At the end of the module, I was able to:
 Apply more advanced Excel functions.
 Use spreadsheet applications to effectively solve real-life issues.
 
- -  [Link🔗"C:\Users\Tamyra\OneDrive - Loyola University Maryland\Pictures\Screenshots\Side Hustle.png"]
+   [Link🔗"C:\Users\Tamyra\OneDrive - Loyola University Maryland\Pictures\Screenshots\Side Hustle.png"]
  - In this assignment, specifically, I had built on my previous assignment and made a side hustle worksheet in Excel, and had to include lookup tables, price lookup with formulas, quantity and total columns, loan payment and affordability calculation, loan cost calculations, and interest cost calculation(total interest paid). It was challenging trying to do the formulas because I’d miss a few symbols, or I’d forget to calculate a piece of critical information in the formula. 
 
 ***

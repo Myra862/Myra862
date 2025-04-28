@@ -1,5 +1,20 @@
-title: FirstName LastName
-#logo: "\images\screenshot Pic.jpeg"
-#description: text below image
+title: Tamyra Nichols
+#logo: "\Project_image_1.jpeg"
+#  This project was a reflection of the topics that I have learned throughout the weeks, and I had to record myself doing the presentation. In the presentation, I described and provided examples of certain things for each topic. The challenging part was getting the recording to capture me speaking and my video because it wasn’t working no matter how hard I tried to get it to. My solution to this problem was to record on my phone and still screen record my laptop screen, which had my presentation that I could still meet all the requirements of the assignment and turn it in. 
+
+#logo: "\Project_image_2.jpeg"
+# I was exposed to more advanced analysis tools that are built into Excel, including lookup functions, the payment function, and pivot tables to help the user by removing the burden of manual calculations to analyze data more efficiently. While formulas and functions drive the computational power of Excel, there are times when basic formulas and functions limit the user from conducting more comprehensive analyses on data.
+At the end of the module, I was able to:
+Apply more advanced Excel functions.
+Use spreadsheet applications to effectively solve real-life issues. In this assignment, specifically, I had built on my previous assignment and made a side hustle worksheet in Excel, and had to include lookup tables, price lookup with formulas, quantity and total columns, loan payment and affordability calculation, loan cost calculations, and interest cost calculation(total interest paid). Trying to do the formulas was challenging because I’d miss a few symbols or forget to calculate a piece of critical information in the formula. 
+
+
+
+#logo: "\Project_image_3.jpeg"
+#  I had to modify my existing Course Grade Evaluator code to allow the user to input the weight factors for my quizzes and assessments, instead of using fixed values (like 70% for quizzes and 30% for assessments). I had to make sure that the program should:
+Make sure the weights are numbers and that they total 100%. If not, I had to prompt the user to enter the correct information. 
+If the weights total 100%, the code should run. It should then calculate and display both the unweighted and weighted averages. It should also determine the letter grade based on the unweighted average score using conditional statements.
+The challenge in this assignment was finding the right syllabus that gives all the information I needed to do this, but I found one with the most information and worked from there. 
+
 #show_downloads: true
 theme: jekyll-theme-minimal

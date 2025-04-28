@@ -1,4 +1,4 @@
-[banner goes here](Link🔗"C:\Users\Tamyra\Downloads\steve-gribble-tuRraTuflBA-unsplash.jpg") 
+[banner goes here](Link🔗"C:\Users\Tamyra\Downloads\steve_gribble_tuRraTuflBA_unsplash.jpg") 
 
 
 # Tamyra Nichols 
@@ -27,7 +27,7 @@ At the end of the module, I was able to:
 Apply more advanced Excel functions.
 Use spreadsheet applications to effectively solve real-life issues.
 
-   [Link🔗"C:\Users\Tamyra\OneDrive - Loyola University Maryland\Pictures\Screenshots\Side Hustle.png"]
+   [Link🔗"C:\Users\Tamyra\OneDrive_Loyola University Maryland\Pictures\Screenshots\Side Hustle.png"]
  - In this assignment, specifically, I had built on my previous assignment and made a side hustle worksheet in Excel, and had to include lookup tables, price lookup with formulas, quantity and total columns, loan payment and affordability calculation, loan cost calculations, and interest cost calculation(total interest paid). It was challenging trying to do the formulas because I’d miss a few symbols, or I’d forget to calculate a piece of critical information in the formula. 
 
 ***

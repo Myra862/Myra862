@@ -1,5 +1,6 @@
-[banner goes here](Link🔗"C:\Users\Tamyra\Downloads\steve_gribble_tuRraTuflBA_unsplash.jpg") 
+[banner goes here](/image/banner_image.jpeg) 
 
+![Banner Background](https://github.com/user-attachments/assets/b7a53f03-eec6-428c-b7ba-52dee037f243)
 
 # Tamyra Nichols 
 Contact Info: TamyraM2005@icloud.com
@@ -17,7 +18,9 @@ Loyola Univeristy Maryland
 #### Project 1 Reflection of 4 Modules 
  -  This project was a reflection of the topics that I have learned throughout the weeks, and I had to record myself doing the presentation. In the presentation, I described and provided examples of certain things for each topic.
 
- ("\Project_image_1.png")
+![project_image](/image/project_image_1.jpeg) 
+![Screenshot 2025-04-27 222535](https://github.com/user-attachments/assets/7fb124ea-38ea-401c-95fa-5e054bc67bda)
+
  -  The challenging part was getting the recording to capture me speaking and my video because it wasn’t working no matter how hard I tried to get it to. My solution to this problem was to record on my phone and still screen record my laptop screen, which had my presentation that I could still meet all the requirements of the assignment and turn it in. 
 
 ***
@@ -27,7 +30,9 @@ At the end of the module, I was able to:
 Apply more advanced Excel functions.
 Use spreadsheet applications to effectively solve real-life issues.
 
-   ["\Project_image_2.png"]
+  ![Project_Image](/image/project_image_2.jpeg) 
+  ![Week 4 Assessment 6 ( Side Hustle)](https://github.com/user-attachments/assets/26ff0502-3e94-4355-a99e-605533f0abcc)
+
  - In this assignment, specifically, I had built on my previous assignment and made a side hustle worksheet in Excel, and had to include lookup tables, price lookup with formulas, quantity and total columns, loan payment and affordability calculation, loan cost calculations, and interest cost calculation(total interest paid). It was challenging trying to do the formulas because I’d miss a few symbols, or I’d forget to calculate a piece of critical information in the formula. 
 
 ***
@@ -36,7 +41,9 @@ Use spreadsheet applications to effectively solve real-life issues.
 Make sure the weights are numbers and that they total 100%. If not, I had to prompt the user to enter the correct information. 
 If the weights total 100%, the code should run. It should then calculate and display both the unweighted and weighted averages. It should also determine the letter grade based on the unweighted average score using conditional statements.
 
- -  ["\Project_image_3.png"]
+ - ![project_Image](/image/project_image_3.png)
+ - ![Week 2 Assessment 4 course grade calculator](https://github.com/user-attachments/assets/5884f6ed-f8ad-43a2-8ac6-f714c79a0843)
+
  - The challenge in this assignment was finding the right syllabus that gives all the information I needed to do this, but I found one with the most information and worked from there. 
 
 

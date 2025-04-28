@@ -1,5 +1,5 @@
 title: FirstName LastName
-#logo: \images\screenshot Pic.jpeg
+#logo: "\images\screenshot Pic.jpeg"
 #description: text below image
 #show_downloads: true
 theme: jekyll-theme-minimal
